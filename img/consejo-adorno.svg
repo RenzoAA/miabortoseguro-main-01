@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="consejo-adorno.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 50.928284 48.042038"
+   height="48.042038mm"
+   width="50.928284mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="688"
+     inkscape:window-height="1008"
+     inkscape:window-width="1223"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1.4124886"
+     inkscape:cx="168.32304"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="-26.458334"
+       originx="-68.791661"
+       id="grid833"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-68.791659,-26.458333)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <circle
+       style="opacity:0.999;fill:#ffd5f6;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle841"
+       cx="110.14524"
+       cy="55.704876"
+       r="4.6302085" />
+    <path
+       sodipodi:nodetypes="cccc"
+       id="path837"
+       d="M 68.791659,26.458333 H 113.77083 C 115.55787,56.346078 105.01944,75.293231 68.791659,71.4375 Z"
+       style="fill:#ffaaee;fill-opacity:1;stroke:none;stroke-width:3.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="4.6302085"
+       cy="63.722961"
+       cx="93.307266"
+       id="path839"
+       style="opacity:0.999;fill:#ffd5f6;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       r="4.6302085"
+       cy="69.870163"
+       cx="113.61974"
+       id="circle843"
+       style="opacity:0.999;fill:#ffd5f6;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <circle
+       style="opacity:0.999;fill:#ffd5f6;fill-opacity:1;stroke:none;stroke-width:0.167825;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle845"
+       cx="111.94932"
+       cy="40.403694"
+       r="7.7706256" />
+  </g>
+</svg>

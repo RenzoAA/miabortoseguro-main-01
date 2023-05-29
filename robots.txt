@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://miabortoseguro.com/sitemap.xml

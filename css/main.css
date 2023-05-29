@@ -1,0 +1,217 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-image: url('../img/leaf.svg'); 
+    background-size: 60px;
+    font-size: 20px;
+    padding-bottom: 100px;
+} 
+
+.navbar-transparent {
+    background-color: #ff4081 !important; 
+}  
+.navbar-brand img {
+    height: 50px;
+}
+.nav-link {
+    color: white !important;
+}
+.nav-link:hover, 
+.nav-link:active, 
+.nav-link:focus {
+    color: #6e0b56 !important;
+}
+
+.st1 { 
+    fill: transparent;
+    stroke: white;
+    stroke-width:0.25;
+    transition: all .3s;
+} 
+
+.st1:hover { 
+    fill: rgba(255, 255, 255, 0.356);
+}
+
+.mapa {
+    position: relative;
+}
+.mapa-adorno {
+    position: absolute;
+    right: -331px;
+    bottom: 0px;
+}
+
+.banner-contacto {
+    max-width: 95%;
+    margin: 20px auto 0 auto;
+} 
+.banner-contacto img {
+    display: block;
+    max-height: 150px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+/* Articulo */
+.articulo {
+    max-width: 960px;
+    width: 96%;
+    margin: 20px auto;
+}
+h1 {
+    margin-bottom: 15px;
+    word-wrap: break-word;
+}
+.articulo h2, 
+.articulo h3, 
+.articulo h4, 
+.articulo h5, 
+.articulo h6 
+{
+    margin: 20px auto 15px auto;
+}
+/* Articulo */
+
+/* PIE DE PÁGINA */
+.pie-pagina {
+    width: 100%;
+    display: block;
+    position: fixed;
+    background-color: #000000;
+    color: #eb86a8;
+    bottom: 0;
+    left: 0;
+}
+
+.btn-accion {
+    background-color: #ff4081;
+    color: white;
+    font: inherit;
+    box-shadow: 0 0 0 0 rgb(255, 64, 129);
+    animation: pulso 2s infinite;
+}
+
+/*¨¨ consejos  ¨¨*/
+.tabla-datos {
+    background-image: url('../img/consejo-adorno.svg');
+    background-repeat: no-repeat;
+}
+.tabla-datos h3 {
+    color: #6e0b56 !important;
+}
+
+.tabla {
+    width: 100%;
+    max-width: 100%;
+    font-size: 16px;
+    margin-bottom: 1rem;
+}
+
+.tabla td {
+    border-bottom: 1px solid #eee;
+    padding: .5rem;
+}
+
+.mx-auto {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+@keyframes pulso {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 64, 129, 0.7);
+    }
+    
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 10px rgba(255, 64, 129, 0);
+    }
+    
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(255, 64, 129, 0);
+    }
+}
+
+
+.whatsapp-contactanos {
+	color: #fff;
+	display: flex;
+	width: 270px;
+	justify-content: end;
+	align-items: center;
+	position: relative;
+	text-decoration: none;
+}
+
+.whatsapp-contactanos__img {
+	width: 100px;
+	position: absolute;
+	left: 0;
+}
+
+.whatsapp-contactanos__text {
+	width: 68%;
+	font-weight: 500;
+	font-size: 12px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+
+	flex-wrap: wrap;
+	background-color: #74b970;
+	padding: 0;
+	margin: 0;
+	padding: 5px 10px;
+	border-radius: 0 12px 12px 0;
+	letter-spacing: 0.5px;
+}
+
+.whatsapp-contactanos__text span {
+	display: flex;
+	width: 100%;
+	font-size: 18px;
+	letter-spacing: 0;
+	padding-bottom: 0;
+	justify-content: center;
+}
+
+
+.content-whatsapp-btn {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	align-content: center;
+	position: relative;
+	text-decoration: none;
+
+}
+
+.content-whatsapp-btn a {
+	display: flex;
+    text-decoration: none;
+	align-content: center
+}
+.content-whatsapp-btn a:hover {
+    color: #fff
+}
+
+.content-whatsapp-btn p {
+	font-size: small;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+
+}
+
+.content-whatsapp-btn strong {
+
+	font-size: 15px
+}
